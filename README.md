@@ -76,10 +76,3 @@
 ## 시스템 구성도
 
 ![image](https://user-images.githubusercontent.com/46713032/87028782-19711100-c21a-11ea-909b-e405ea39e177.png)
-
-
-## 버그 및 기능 요청
-
-[**ISSUE**](https://github.com/reyeon1209/Server_Project/issues)
-
-
